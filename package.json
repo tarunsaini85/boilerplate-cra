@@ -2,7 +2,7 @@
   "name": "boilerplate-cra",
   "version": "1.0.5",
   "private": false,
-  "homepage": "http://localhost",
+  "homepage": "https://github.com/tarunsaini85/boilerplate-cra#readme",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
@@ -107,6 +107,10 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/tarunsaini85/boilerplate-cra.git"
   },
   "devDependencies": {},
   "description": "Create-React-App Boilerplate",
