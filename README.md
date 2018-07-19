@@ -11,15 +11,15 @@
 
   
 
-* A **"READY to RUN"** application
+* A **"READY to RUN"** application.
 
   
 
-* **Based on create-react-app** including react, redux, react-router, localforage(for indexedDB/webSQL/Localstorage), sass-loader, webpack, code-splitting/chunking, font-icons, jest and more
+* **Based on create-react-app** including react, redux, react-router, localforage(for indexedDB/webSQL/Localstorage), sass-loader, webpack, code-splitting/chunking, font-icons, jest and more.
 
   
 
-* **No-hassel** of creating the initial setup, installing huge list of modules, configuring and tuning them around
+* **No-hassel** of creating the initial setup, installing huge list of modules, configuring and tuning them around.
 
   
 
